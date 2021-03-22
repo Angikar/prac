@@ -1,2 +1,4 @@
 Hi ! 
 This is a practise lesson on Git.
+
+This concludes the git session.
